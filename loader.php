@@ -29,7 +29,7 @@ class sampleAddon{
         
 
         // Add files individually later on in like so:
-        // require_once( $this->directory_path . '/includes/?????.php' );
+        require_once( $this->directory_path . '/includes/sample.php' );
         
     }
     
