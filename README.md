@@ -1,5 +1,5 @@
 # WP Plugin Boilerplate
-Let this plugin be a temlpate for building your own WordPress plugins. 
+Let this plugin be a temlpate for building your own WordPress plugins. Feel free to change the instructions below to better document your plugin.
 
 # Important usage instructions:
 We're no strangers to love
